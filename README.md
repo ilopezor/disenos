@@ -1,6 +1,6 @@
 # disenos
 
-A new Flutter project.
+Proyecto del curso de flutter basico del profesor Fernando Herrera
 
 ## Getting Started
 
